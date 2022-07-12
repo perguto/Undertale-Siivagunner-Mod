@@ -1,64 +1,58 @@
-
-    Directory: D:\ownd\undertale_siivagunner_mod\ripped_music\ogg_vorbis\m
-
-[32;1mMode                 LastWriteTime         Length Name[0m
-[32;1m----                 -------------         ------ ----[0m
--a---           7/13/2022  1:40 AM              0 m.txt
--a---           7/13/2022  1:32 AM        3936013 mus_amalgam.ogg
--a---           7/13/2022  1:31 AM        4259051 mus_battle1.ogg
--a---           7/13/2022  1:32 AM      439494446 mus_birdsong.ogg
--a---           7/13/2022  1:31 AM       10358082 mus_boss1.ogg
--a---           7/13/2022  1:32 AM        4501652 mus_confession.ogg
--a---           7/13/2022  1:31 AM         813115 mus_date_fight.ogg
--a---           7/13/2022  1:31 AM        2306186 mus_date_tense.ogg
--a---           7/13/2022  1:31 AM        8818288 mus_date.ogg
--a---           7/13/2022  1:31 AM         866587 mus_dogmeander.ogg
--a---           7/13/2022  1:31 AM        5605967 mus_dogsong.ogg
--a---           7/13/2022  1:32 AM       10224087 mus_dummybattle.ogg
--a---           7/13/2022  1:32 AM        5997676 mus_fallendown2.ogg
--a---           7/13/2022  1:31 AM        6215542 mus_flowey.ogg
--a---           7/13/2022  1:31 AM        2754546 mus_gameover.ogg
--a---           7/13/2022  1:31 AM        2819267 mus_ghostbattle.ogg
--a---           7/13/2022  1:32 AM        8599702 mus_hereweare.ogg
--a---           7/13/2022  1:31 AM        4263344 mus_house1.ogg
--a---           7/13/2022  1:31 AM        1204055 mus_house2.ogg
--a---           7/13/2022  1:32 AM       11527216 mus_lab.ogg
--a---           7/13/2022  1:31 AM        1559314 mus_menu{0..6}.ogg
--a---           7/13/2022  1:32 AM         987570 mus_mettmusical{1..4}.ogg
--a---           7/13/2022  1:31 AM       51905370 mus_muscle.ogg
--a---           7/13/2022  1:31 AM        5464031 mus_musicbox.ogg
--a---           7/13/2022  1:31 AM        1459449 mus_mysteriousroom2.ogg
--a---           7/13/2022  1:31 AM         344577 mus_mystery.ogg
--a---           7/13/2022  1:32 AM        4115595 mus_napstachords.ogg
--a---           7/13/2022  1:32 AM        3071355 mus_napstahouse.ogg
--a---           7/13/2022  1:32 AM        1864109 mus_news_battle.ogg
--a---           7/13/2022  1:32 AM        2042174 mus_news.ogg
--a---           7/13/2022  1:32 AM        2174500 mus_oogloop.ogg
--a---           7/13/2022  1:32 AM        1218629 mus_operatile.ogg
--a---           7/13/2022  1:31 AM        9141096 mus_options_fall.ogg
--a---           7/13/2022  1:31 AM        6258673 mus_options_winter.ogg
--a---           7/13/2022  1:31 AM        9160458 mus_papyrus.ogg
--a---           7/13/2022  1:31 AM        8964957 mus_papyrusboss.ogg
--a---           7/13/2022  1:31 AM        3020314 mus_prebattle1.ogg
--a---           7/13/2022  1:32 AM        1117200 mus_race.ogg
--a---           7/13/2022  1:31 AM        4278313 mus_ruins.ogg
--a---           7/13/2022  1:31 AM        8680557 mus_shop.ogg
--a---           7/13/2022  1:31 AM        9317931 mus_snowy.ogg
--a---           7/13/2022  1:32 AM        6275388 mus_spider.ogg
--a---           7/13/2022  1:32 AM         310847 mus_spoopy_holiday.ogg
--a---           7/13/2022  1:32 AM         510699 mus_spoopy_wave.ogg
--a---           7/13/2022  1:32 AM        2289832 mus_spoopy.ogg
--a---           7/13/2022  1:30 AM        9791558 mus_story.ogg
--a---           7/13/2022  1:32 AM        3246153 mus_temshop.ogg
--a---           7/13/2022  1:32 AM       11877367 mus_temvillage.ogg
--a---           7/13/2022  1:31 AM        3424790 mus_tension.ogg
--a---           7/13/2022  1:31 AM       17032193 mus_toriel.ogg
--a---           7/13/2022  1:31 AM       28724145 mus_town.ogg
--a---           7/13/2022  1:32 AM        2618664 mus_undyneboss.ogg
--a---           7/13/2022  1:31 AM        1862363 mus_undynefast.ogg
--a---           7/13/2022  1:31 AM         353369 mus_undynescary.ogg
--a---           7/13/2022  1:31 AM        1649616 mus_undynetheme.ogg
--a---           7/13/2022  1:32 AM        2255775 mus_undynetruetheme.ogg
--a---           7/13/2022  1:31 AM       16302491 mus_waterfall.ogg
--a---           7/13/2022  1:31 AM        6380430 mus_waterquiet.ogg
-
+m.txt
+mus_amalgam.ogg
+mus_battle1.ogg
+mus_birdsong.ogg
+mus_boss1.ogg
+mus_confession.ogg
+mus_date.ogg
+mus_date_fight.ogg
+mus_date_tense.ogg
+mus_dogmeander.ogg
+mus_dogsong.ogg
+mus_dummybattle.ogg
+mus_fallendown2.ogg
+mus_flowey.ogg
+mus_gameover.ogg
+mus_ghostbattle.ogg
+mus_hereweare.ogg
+mus_house1.ogg
+mus_house2.ogg
+mus_lab.ogg
+mus_menu{0..6}.ogg
+mus_mettmusical{1..4}.ogg
+mus_muscle.ogg
+mus_musicbox.ogg
+mus_mysteriousroom2.ogg
+mus_mystery.ogg
+mus_napstachords.ogg
+mus_napstahouse.ogg
+mus_news.ogg
+mus_news_battle.ogg
+mus_oogloop.ogg
+mus_operatile.ogg
+mus_options_fall.ogg
+mus_options_winter.ogg
+mus_papyrus.ogg
+mus_papyrusboss.ogg
+mus_prebattle1.ogg
+mus_race.ogg
+mus_ruins.ogg
+mus_shop.ogg
+mus_snowy.ogg
+mus_spider.ogg
+mus_spoopy.ogg
+mus_spoopy_holiday.ogg
+mus_spoopy_wave.ogg
+mus_story.ogg
+mus_temshop.ogg
+mus_temvillage.ogg
+mus_tension.ogg
+mus_toriel.ogg
+mus_town.ogg
+mus_undyneboss.ogg
+mus_undynefast.ogg
+mus_undynescary.ogg
+mus_undynetheme.ogg
+mus_undynetruetheme.ogg
+mus_waterfall.ogg
+mus_waterquiet.ogg
