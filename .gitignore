@@ -3,3 +3,25 @@ mus_birdsong*hours.ogg
 *.swp
 *.pog
 *.mog.pog
+.gitignore.orig
+D3DX9_43.dll
+Grandlovia - A Grand Dad Megalovania [tl5Dtt0pgog].webm
+README.md.orig
+UNDERTALE.exe
+UNDERTALE_siiva.exe
+ai/
+c2pn.txt
+data.win_grandlovania
+data.win_original
+grandlovania/
+mod_so_far.txt
+options.ini
+properly_named_combos/
+ripped_music/
+siivatale/
+steam_api.dll
+steam_api.dll_original
+title/
+underrip.txt
+underrip/
+underrip_unique_tracks.txt
