@@ -10,3 +10,11 @@ A very high quality mod for Undertale.
 3. Replace the audio by just pulling the contents of the zipfile into your copied Undertale music and choosing "replace" for all files.
 
 Now your sanity and mine can die together!
+
+## Credits
+
+Original rips made by the [Siivagunner](https://www.youtube.com/c/SiIvaGunner) team.
+
+Grand Dad, Megalovania dialogues, mus_birdnoise.ogg, mus_chokedup.ogg taken from Grandlovania mod by [Izzy's Archives](https://www.youtube.com/channel/UCYR8ul_fYtxJVn5FF9SrLNQ).
+
+Grand Dad Megalovania remix created by ZoruaPaul.
