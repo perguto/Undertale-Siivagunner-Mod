@@ -15,6 +15,6 @@ Now your sanity and mine can die together!
 
 Original rips made by the [Siivagunner](https://www.youtube.com/c/SiIvaGunner) team.
 
-Grand Dad, Megalovania dialogues, mus_birdnoise.ogg, mus_chokedup.ogg taken from Grandlovania mod by [Izzy's Archives](https://www.youtube.com/channel/UCYR8ul_fYtxJVn5FF9SrLNQ).
+Grand Dad, Megalovania dialogues, mus_birdnoise.ogg, mus_chokedup.ogg taken from [Grandlovania](https://www.mediafire.com/file/zzbv5ozifb7pout/Grandlovania_The_Grandest_Fight_Ever_Made.zip/file) mod by [Izzy's Archives](https://www.youtube.com/channel/UCYR8ul_fYtxJVn5FF9SrLNQ).
 
 Grand Dad Megalovania remix created by ZoruaPaul.
