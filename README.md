@@ -1,4 +1,5 @@
 # Undertale Siivagunner Mod
+![splash.png](./splash.png)
 A very high quality mod for Undertale. 
 
 ## How to Use
